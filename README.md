@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cookieeater144
+- 👋 Hi, I’m @Andrew Tran
 - 👀 I’m interested in learning how to code, hiking, and traveling!
 - 🌱 I’m currently learning on the Odin Project. 
 - 💞️ I’m looking to collaborate on ...
